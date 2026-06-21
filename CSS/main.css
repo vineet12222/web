@@ -1,5 +1,5 @@
 body {
-    
+
     height: 700px;
     background: linear-gradient(to top right, #1c1c1c, #353535);
 
@@ -7,7 +7,8 @@ body {
     margin: 0;
 
 }
-body::-webkit-scrollbar{
+
+body::-webkit-scrollbar {
     display: none;
 }
 
@@ -22,70 +23,71 @@ body::-webkit-scrollbar{
     padding-top: 20px;
     user-select: none;
     border-radius: 8px;
-  
-  
+
+
 
 
 }
-a{
+
+a {
     text-decoration: none;
     color: white;
     display: inline-block;
 
+
 }
+
 .Menue {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font: small;
-    
-    
-    padding-left: 20px;
-   
-    
-    
-    
-    
+    margin-left: 25px;
+    margin-right: 20px;
+
+
+
+
+
+
+
+
+
 
 
 }
 
 .Menue:hover {
     color: blue;
-    
-    border-radius: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-right: 3.5px;
-    
+    margin-right: 22.5px;
+
+
 }
 
 
 .About {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font: small;
-    padding-left: 15px;
 
+    margin-right: 20px;
 
 }
 
 .About:hover {
     color: blue;
-    background-color:azure;
-    border-radius: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-right: 3.5px;
+    margin-right: 23.8px;
+
 }
 
 .Vsite {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font: small;
+    margin-right: 20px;
 
-    padding-left: 15px;
 
 }
 
 .Vsite:hover {
     color: blue;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-right: 3.5px;
+    margin-right: 22.5px;
 }
 
 
@@ -93,23 +95,22 @@ a{
 .Ssite {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: small;
+    margin-right: 20px;
 
-    padding-left: 15px;
 
 }
 
 .Ssite:hover {
     color: blue;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-right: 3.5px;
+    margin-right: 22.5px;
+
 }
 
 
 .Contact {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font: small;
-
-    padding-left: 15px;
+    margin-right: 20px;
 
 
 }
@@ -117,20 +118,16 @@ a{
 .Contact:hover {
     color: blue;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-right: 7.8px;
+    margin-right: 26.5px;
 }
 
 .Feedback {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font: small;
-   
-
-    padding-left: 15px;
-
+    margin-right: 20px;
 }
 
 .Feedback:hover {
     color: blue;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-right: 3.5px;
+
 }
