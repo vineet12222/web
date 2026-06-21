@@ -1,0 +1,14 @@
+body{
+    background-color: #F3EFAB;
+    margin-top: 150px;
+}
+.Home:hover{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Home {
+    color: rebeccapurple;
+    text-decoration: none;
+    font: bolder;
+}
+
