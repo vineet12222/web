@@ -1,0 +1,22 @@
+body{
+    background-color: #F3EFAB;
+    margin-top: 150px;
+}
+.Home:hover{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Home {
+    color: rebeccapurple;
+    text-decoration: none;
+    font: bolder;
+}
+.Working_Home{
+    width: fit-content;
+    height: fit-content;
+    user-select: none;
+}
+.Under_M{
+    user-select: none;
+    color: #FF7300;
+}
